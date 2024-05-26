@@ -16,7 +16,7 @@ The ALX Data Science programme, developed in partnership with ExploreAI includes
 
 ## Projects by Topic
 
-- [SQL](./01-SQL)
-- [Python](./02-Python)
-- [Regression](./03-Regression)
-- [NLP and Classification](./04-NLP%20and%20Classification)
+- [SQL](./01-%20SQL)
+- [Python](./02-%20Python)
+- [Regression](./03-%20Regression)
+- [NLP and Classification](./04-%20NLP%20and%20Classification)
