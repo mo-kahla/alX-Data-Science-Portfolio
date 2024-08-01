@@ -21,7 +21,7 @@ Welcome to my data science portfolio! This repository showcases the projects I'v
 8. **Module 8: Unsupervised Learning**: Clustering methods, dimensionality reduction, and anomaly detection.
 9. **Module 9: AWS Foundations**: Cloud computing basics, AWS services for data science, deploying models on AWS.
 10. **Module 10: Integrated Exams**: Comprehensive exams covering all modules to assess overall understanding and proficiency.
-a
+
 For an in-depth look at the curriculum, check the [detailed ALX Data Science Curriculum](https://www.alxafrica.com/wp-content/uploads/2023/02/ALX-Data-Science-Curriculum.pdf).
 
 ## Projects & Exercises by Topic
